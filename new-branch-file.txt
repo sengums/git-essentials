@@ -1,1 +1,1 @@
-Nerw Branch file shows up int he branch
+New Branch file shows up in main and new-branch.
