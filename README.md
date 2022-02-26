@@ -1,4 +1,5 @@
-# git-essentials
-## Deployment Code
+# Git Eseesntials/ Git for everybody
 
-## Repo Notes
+> Course created 
+
+By Moloy Sengupta
