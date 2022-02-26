@@ -1,1 +1,1 @@
-New branch file only shows up in new branch.
+New branch file only shows up in main.
